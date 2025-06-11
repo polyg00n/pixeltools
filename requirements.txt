@@ -1,0 +1,16 @@
+# GUI framework
+PyQt5>=5.15
+
+# Image processing
+opencv-python>=4.8.0
+numpy>=1.24
+
+# OpenEXR support
+OpenEXR>=1.3
+Imath>=3.1
+
+# (Optional) For advanced comparison like SSIM
+scikit-image>=0.21
+
+# (Optional) For structured table export and filtering
+pandas>=2.0

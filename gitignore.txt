@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.pyo
+*.pyd
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+.venv/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+*.tmp
+.cache/
+
+# Build outputs
+dist/
+build/
+*.whl
+
+# IDEs
+.vscode/
+.idea/
+
+# PixelTools outputs
+*/_aov_*/
+*/preview.mp4
+*.npy
+*.npz
+*.csv
